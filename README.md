@@ -10,7 +10,7 @@ SEO Optimized: The website is structured with semantic HTML and optimized meta t
 Modern Styling: CSS is used to create a clean, modern design with custom animations and transitions.
 <br>
 Modular Structure: The codebase is organized with reusability and scalability in mind, making it easy to update and expand.<br>
-## Technologies Used
+### Technologies Used
 HTML: For structuring the content and defining the layout of the web pages.<br>
 CSS: For styling the website, including layouts, colors, fonts, and animations.<br>
 JavaScript: For adding interactivity and handling client-side logic.<br>
