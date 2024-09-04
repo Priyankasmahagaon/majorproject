@@ -4,6 +4,7 @@
 This project is built using fundamental web technologies: HTML, CSS, and JavaScript. The goal is to create a professional online presence for a digital marketing agency, with a user-friendly interface and engaging design.
 ### Key Features
 Responsive Design: The website is fully responsive, ensuring an optimal experience on desktop, tablet, and mobile devices.
+<br>
 SEO Optimized: The website is structured with semantic HTML and optimized meta tags to improve search engine rankings.
 Modern Styling: CSS is used to create a clean, modern design with custom animations and transitions.
 Modular Structure: The codebase is organized with reusability and scalability in mind, making it easy to update and expand.
